@@ -1,0 +1,27 @@
+.calendar {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-gap: 10px;
+}
+
+.day {
+  padding: 10px;
+  text-align: center;
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+.rbc-day {
+  cursor: pointer;
+  padding: 10px;
+}
+
+.rbc-day:hover {
+  background-color: #f8e0e6;
+  transition: background-color 0.3s ease;
+}
