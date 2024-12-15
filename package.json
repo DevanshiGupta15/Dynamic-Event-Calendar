@@ -9,19 +9,19 @@
   ],
   "main": "src/index.tsx",
   "dependencies": {
-    "loader-utils": "3.2.1",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "react-scripts": "5.0.1",
-    "react-big-calendar": "1.17.0",
-    "date-fns": "4.1.0",
-    "@mui/material": "6.2.0",
     "@emotion/react": "11.14.0",
     "@emotion/styled": "11.14.0",
     "@mui/icons-material": "6.2.0",
-    "shadcn": "2.1.7",
+    "@mui/material": "6.2.0",
+    "@shadcn/ui": "0.0.4",
+    "date-fns": "4.1.0",
     "file-saver": "2.0.5",
-    "@shadcn/ui": "0.0.4"
+    "loader-utils": "3.2.1",
+    "react": "18.2.0",
+    "react-big-calendar": "^1.17.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "^5.0.1",
+    "shadcn": "2.1.7"
   },
   "devDependencies": {
     "@types/react": "18.2.38",
